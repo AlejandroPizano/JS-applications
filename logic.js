@@ -1,4 +1,4 @@
-document.body.onload = addElement;
+
 function removeElement () {
     rmv=document.getElementById("circle")
     rmv.remove();
