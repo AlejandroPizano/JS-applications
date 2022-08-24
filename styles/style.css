@@ -9,6 +9,9 @@
     margin: auto;
     position: relative;
     animation: poping 1s backwards;
+	
+	margin-bottom: 10px;
+
     
  }
 body {
